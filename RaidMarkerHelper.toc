@@ -1,7 +1,7 @@
-## Interface: 50501,50502
+## Interface: 50503
 ## Title: RaidMarkerHelper
 ## Notes: Simple raid target marker panel
-## Version: 1.0.1
+## Version: 1.0.2
 ## Author: Domekologe
 ## SavedVariables: RaidMarkerHelperDB
 
